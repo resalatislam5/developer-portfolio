@@ -43,7 +43,13 @@ img{
     color: #fff;
     font-weight: bold;
 }
-
+#Dream_Big{
+    margin-top: 150px;
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
 
 
 
