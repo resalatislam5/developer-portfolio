@@ -93,5 +93,10 @@ img{
     
 }
 
-
+footer p{
+    margin-top: 50px;
+    color: gray;
+    font-size: 16px;
+    text-align: center;
+}
 
